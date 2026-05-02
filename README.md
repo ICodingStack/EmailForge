@@ -2,6 +2,12 @@
 
 **The Most Elegant & Intelligent HTML Email Signature Builder**
 
+## ✨ Preview
+
+![EmailForge Preview](./assets/preview.png)
+
+*Elegant and professional email signature generated with EmailForge*
+
 > Signatures That Impress — free, open source, and entirely client-side.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-6366f1.svg)](LICENSE)
@@ -161,4 +167,4 @@ MIT © EmailForge Contributors — see [LICENSE](LICENSE) for details.
 
 ---
 
-*Made with ✦ for professionals who care about first impressions.*
+**Made with love ❤️ by [BlackBirdo](https://blackbirdo.com)**
